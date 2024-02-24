@@ -15,8 +15,9 @@ This project is a practical implementation of a 6-hour tutorial that covers the 
 7. Databases Pt 2 -- DAOs with Spring JDBC
 8. Databases Pt 3 -- Spring Data JPA
 9. Jackson & JSON
-10. Building a REST API
-11. Deployment to AWS LightSail
+10. Unit testing & Integration testing
+11. Building a REST API
+12. Deployment to AWS LightSail
 
 ## Getting Started
 Follow these steps to get the project up and running on your local machine:
